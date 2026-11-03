@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "login": "normalguy123412-design",
+  "seed": "#D8E188",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "NiceGuy",
+    "subtitle": "Делаю интерфейсы и небольшие полезные утилиты.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Moscow"
+      },
+      {
+        "icon": "star",
+        "label": "Learning C++"
+      },
+      {
+        "icon": "code",
+        "label": "Python"
+      },
+      {
+        "icon": "code",
+        "label": "C#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:adidas",
+            "label": "C#"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles",
+      "pixel-garden"
+    ],
+    "overrides": {},
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/Chea1eRs"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/775664166538706954"
+      }
+    ],
+    "variant": "icon",
+    "fill": "brand",
+    "card": true,
+    "shape": "pill"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://normalguy123412-design.github.io/bio/",
+        "style": "filled"
+      }
+    ],
+    "card": false
+  }
+}
