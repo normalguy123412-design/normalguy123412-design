@@ -1,0 +1,162 @@
+{
+ "key": "f0432c4d",
+ "stars": 0,
+ "contributions": 6,
+ "repos": 3,
+ "followers": 0,
+ "languages": [
+  [
+   "TypeScript",
+   351702
+  ],
+  [
+   "JavaScript",
+   57233
+  ],
+  [
+   "CSS",
+   24789
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 3,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 2
+ },
+ "pins": [
+  {
+   "name": "bio",
+   "url": "https://github.com/normalguy123412-design/bio",
+   "text": "Персональная страница:bio, ссылки и музыка. Статический сайт на GitHub Pages.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "normalguy123412-design",
+   "url": "https://github.com/normalguy123412-design/normalguy123412-design",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "bio",
+   "url": "https://github.com/normalguy123412-design/bio",
+   "text": "Персональная страница:bio, ссылки и музыка. Статический сайт на GitHub Pages.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ib-gid",
+   "url": "https://github.com/normalguy123412-design/ib-gid",
+   "text": "ИБ-Гид — одностраничный учебный сайт по информационной безопасности: триада CIA, типы угроз, методы защиты и интерактивные демо. Next.js + TypeScript + Tailwind.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
